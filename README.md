@@ -1,6 +1,7 @@
 ## Hi there 👋
 ![打字特效](https://readme-typing-svg.demolab.com/?lines=welcome+to+huaiyuechusan's+GitHub)
-![访客数](https://visitor-badge.glitch.me/badge?page_id=huaiyuechusan&left_color=green&right_color=red)
+<!--![访客数](https://visitor-badge.glitch.me/badge?page_id=huaiyuechusan&left_color=green&right_color=red)-->
+
 ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=huaiyuechusan)
 ![语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=huaiyuechusan)
 ![资料奖杯](https://github-profile-trophy.vercel.app/?username=huaiyuechusan)
