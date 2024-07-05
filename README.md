@@ -1,13 +1,83 @@
-## Hi there 👋
-![打字特效](https://readme-typing-svg.demolab.com/?lines=welcome+to+huaiyuechusan's+GitHub)
-<!--![访客数](https://visitor-badge.glitch.me/badge?page_id=huaiyuechusan&left_color=green&right_color=red)-->
+## Hey 👋, I'm huaiyuechusan!  
 
-![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=huaiyuechusan)
-![语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=huaiyuechusan)
-![资料奖杯](https://github-profile-trophy.vercel.app/?username=huaiyuechusan)
-<!--![活动统计图](https://github-readme-activity-graph.vercel.app/graph?username=huaiyuechusan)-->
-![连续提交代码的次数](https://streak-stats.demolab.com/?user=huaiyuechusan)
-![社交统计](https://stats.justsong.cn/api/github?username=huaiyuechusan&cn=true)
+<a href="https://github.com/huaiyuechusan" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/huaiyuechusan" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>  
+  
+### Glad to see you here!  
+
+<br/>  
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+- 🔭 I’m currently working on [torch_base](https://github.com/huaiyuechusan/torch_base)  
+  
+
+- 🌱 I’m currently learning deep learning and pytorch  
+  
+
+- ❓ Ask me about anything related to AI and related technologies  
+
+
+</td><td valign="top" width="50%">
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Languages and Tools  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" /></a>  
+</div>  
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=huaiyuechusan&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
+
+</td><td valign="top" width="50%">
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huaiyuechusan&hide_border=true&layout=compact" align="right" /></div>
+
+</td></tr></table>  
+
+<br/>  
+
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=huaiyuechusan&&style=flat-square)  
+  
+
+<br/>  
+
+
+<br />
+
+## github contribution grid snake animation
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huaiyuechusan/huaiyuechusan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huaiyuechusan/huaiyuechusan/output/github-contribution-grid-snake.svg">
@@ -17,17 +87,6 @@
 
 
 
-<!--
-**huaiyuechusan/huaiyuechusan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
