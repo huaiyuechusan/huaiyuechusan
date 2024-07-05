@@ -1,9 +1,9 @@
 ## Hi there 👋
-![打字特效](https://readme-typing-svg.demolab.com/?lines=welcome to huaiyuechusan's GitHub)
+![打字特效](https://readme-typing-svg.demolab.com/?lines=welcome+to+huaiyuechusan's+GitHub)
 ![访客数](https://visitor-badge.glitch.me/badge?page_id=huaiyuechusan&left_color=green&right_color=red)
 ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=huaiyuechusan)
 ![语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=huaiyuechusan)
-![资料奖杯](https://github-profile-trophy.vercel.app/?username=huaiyuechusan)](https://github.com/ryo-ma/github-profile-trophy)
+![资料奖杯](https://github-profile-trophy.vercel.app/?username=huaiyuechusan)
 ![活动统计图](https://github-readme-activity-graph.vercel.app/graph?username=huaiyuechusan)
 ![连续提交代码的次数](https://streak-stats.demolab.com/?user=huaiyuechusan)
 ![社交统计](https://stats.justsong.cn/api/leetcode?username=quanpeng&cn=true)
