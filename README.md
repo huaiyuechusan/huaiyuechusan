@@ -9,9 +9,9 @@
 ![连续提交代码的次数](https://streak-stats.demolab.com/?user=huaiyuechusan)
 ![社交统计](https://stats.justsong.cn/api/github?username=huaiyuechusan&cn=true)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huaiyuechusan/huaiyuechusan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huaiyuechusan/huaiyuechusan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huaiyuechusan/huaiyuechusan/output/github-contribution-grid-snake.svg">
 </picture>
 
 
