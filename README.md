@@ -5,7 +5,7 @@
 ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=huaiyuechusan)
 ![语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=huaiyuechusan)
 ![资料奖杯](https://github-profile-trophy.vercel.app/?username=huaiyuechusan)
-![活动统计图](https://github-readme-activity-graph.vercel.app/graph?username=huaiyuechusan)
+<!--![活动统计图](https://github-readme-activity-graph.vercel.app/graph?username=huaiyuechusan)-->
 ![连续提交代码的次数](https://streak-stats.demolab.com/?user=huaiyuechusan)
 ![社交统计](https://stats.justsong.cn/api/github?username=huaiyuechusan&cn=true)
 
