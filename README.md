@@ -23,8 +23,6 @@
 - ❓ Ask me about anything related to AI and related technologies  
 
 
-</td><td valign="top" width="50%">
-
 
 </td></tr></table>  
 
@@ -63,26 +61,24 @@
 
 <br/>  
 
+# Blog Post List
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=huaiyuechusan&&style=flat-square)  
-  
 
 <br/>  
 
-
-<br />
-
-## github contribution grid snake animation
+## Contribution Grid Snake Animation
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huaiyuechusan/huaiyuechusan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huaiyuechusan/huaiyuechusan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huaiyuechusan/huaiyuechusan/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br />
+
+![Profile views counter](https://komarev.com/ghpvc/?username=huaiyuechusan&&style=flat-square)  
 
 
 
