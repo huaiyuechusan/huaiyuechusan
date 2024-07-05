@@ -67,8 +67,12 @@
 <br/> 
 
 ## Blog Post List
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [大模型开发实战](https://huaiyuechusan.gitee.io/archives/763f7a6d.html)
+- [本地基于知识库的大模型的使用教程](https://huaiyuechusan.gitee.io/archives/9ac21f23.html)
+- [ShellScript脚本编程](https://huaiyuechusan.gitee.io/archives/d8093044.html)
+- [Linux环境编程基础](https://huaiyuechusan.gitee.io/archives/3cc384d0.html)
+- [下载M3U8格式加密视频](https://huaiyuechusan.gitee.io/archives/d4b1abad.html)
 <!-- BLOG-POST-LIST:END -->  
 
 
