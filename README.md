@@ -14,7 +14,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [torch_base](https://github.com/huaiyuechusan/torch_base)  
+- 🔭 I’m currently working on [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial)  
   
 
 - 🌱 I’m currently learning deep learning and pytorch  
