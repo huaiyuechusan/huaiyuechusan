@@ -68,11 +68,11 @@
 
 ## Blog Post List
 <!-- BLOG-POST-LIST:START -->
+- [深度学习回归任务训练代码模版](https://huaiyuechusan.gitee.io/archives/638889b7.html)
+- [如何阅读PyTorch文档及常见PyTorch错误](https://huaiyuechusan.gitee.io/archives/a86ba09b.html)
+- [PyTorch入门实践：COVID-19 病例预测 &lpar;回归&rpar;](https://huaiyuechusan.gitee.io/archives/ab7c3439.html)
+- [快速入门PyTorch](https://huaiyuechusan.gitee.io/archives/76ef551b.html)
 - [分类任务实现模型（投票式）集成代码模版](https://huaiyuechusan.gitee.io/archives/6e00b65.html)
-- [深度学习分类模型训练代码模板](https://huaiyuechusan.gitee.io/archives/3f9075ad.html)
-- [从零入门CV图像竞赛（2024全球Deepfake攻防挑战赛）](https://huaiyuechusan.gitee.io/archives/c3b7887e.html)
-- [大模型开发实战](https://huaiyuechusan.gitee.io/archives/763f7a6d.html)
-- [本地基于知识库的大模型的使用教程](https://huaiyuechusan.gitee.io/archives/9ac21f23.html)
 <!-- BLOG-POST-LIST:END -->  
 
 
