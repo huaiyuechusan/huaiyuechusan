@@ -14,7 +14,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [pytorch-tutorial-2nd](https://github.com/huaiyuechusan/pytorch-tutorial-2nd)  
+- 🔭 I’m currently working on [MMRec](https://github.com/huaiyuechusan/MMRec)
   
 
 - 🌱 I’m currently learning deep learning and pytorch  
